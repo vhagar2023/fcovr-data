@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "fcovr-data-1"
-  }
+    "default": "fcovr-data-3",
+    "p1": "fcovr-data-2",
+    "p2": "fcovr-data-3"
+  },
+  "targets": {},
+  "etags": {}
 }
